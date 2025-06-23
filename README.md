@@ -1,10 +1,10 @@
-# 📧 Email Analyzer Tool
+# Email Analyzer Tool
 
 A simple Python script to analyze a list of email addresses by extracting usernames and domains, counting domain usage, and identifying users whose usernames start with a vowel.
 
 ---
 
-## ✅ Features
+## Features
 
 - Extracts usernames and domains from email addresses
 - Identifies unique email domains
@@ -15,7 +15,7 @@ A simple Python script to analyze a list of email addresses by extracting userna
 
 ---
 
-## 📌 Sample Input
+## Sample Input
 
 ```python
 emails = [
